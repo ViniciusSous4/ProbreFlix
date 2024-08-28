@@ -1,2 +1,2 @@
-# ProbreFlix
+# PobreFlix
 projeto Alura+
